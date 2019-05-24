@@ -35,6 +35,16 @@ Aplikasi Pemilihan Dosen Terbaik Menggunakan Metode AHP Berbasis Web
 8. Tentukan perbandingan setiap nilai alternatif berdasarkan kriteria.
 9. Cetak hasil akhir dari perbandingan dosen terbaik tersebut, dan untuk grafik rangkingnya bisa di lihat dihalaman home.
 
+### Demo
+1. Username Kepegawaian: user = rifa & pass = rifa
+2. Username Atasan/Admin: user = atasan & pass = atasan
+3. Username Manager: user = yoni & pass = yoni
+
+Link website <a href="http://spk.rifafauzi.com">here</a>
+
+### Issue
+Jika ada masalah ketika mendemo website, sila hub saya :D
+
 ## Author
 
 * **R Rifa Fauzi Komara**
